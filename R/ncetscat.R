@@ -1,5 +1,5 @@
 #' Eliminating the Unmeasured Confounders and Estimating Causal Effect
-#' for categorical outcome.
+#' for Categorical Outcome.
 #'
 #' @param data an optional data frame containing the variables in the model.
 #' @param x1_name the name of pre-outcome exposure
