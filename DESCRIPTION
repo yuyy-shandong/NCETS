@@ -1,6 +1,6 @@
 Package: NCETS
 Type: Package
-Title: What the Package Does (Title Case)
+Title: An R package for causal effect estimation of environmental exposure on health outcome.
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
