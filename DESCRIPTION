@@ -2,10 +2,10 @@ Package: NCETS
 Type: Package
 Title: An R package for causal effect estimation of environmental exposure on health outcome.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Yuanyuan Yu; Hongkai Li; Fuzhong Xue
+Maintainer: Yuanyuan Yu <yu_yy_1993@163.com>
+Description: This package provides the functions for causal effect 
+estimation of environmental exposure on health outcome. 
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
