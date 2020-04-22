@@ -2,7 +2,7 @@
 % Please edit documentation in R/difftest.R
 \name{diff_test}
 \alias{diff_test}
-\title{Diff_test for test causal effect among time-varying Exposure.}
+\title{Diff_test for testing causal effect among time-varying Exposure.}
 \usage{
 diff_test(
   data = data,
@@ -29,7 +29,7 @@ and post-outcome exposure}
 \code{diff_test} the result of Diff and its 95%CI .
 }
 \description{
-Diff_test for test causal effect among time-varying Exposure.
+Diff_test for testing causal effect among time-varying Exposure.
 }
 \examples{
 a <- rnorm(1000,0,1)

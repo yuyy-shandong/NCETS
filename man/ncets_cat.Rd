@@ -3,7 +3,7 @@
 \name{ncets_cat}
 \alias{ncets_cat}
 \title{Eliminating the Unmeasured Confounders and Estimating Causal Effect
-for categorical outcome.}
+for Categorical outcome.}
 \usage{
 ncets_cat(
   data = data,
@@ -30,7 +30,7 @@ and its 95%CI for categorical variables.
 }
 \description{
 Eliminating the Unmeasured Confounders and Estimating Causal Effect
-for categorical outcome.
+for Categorical outcome.
 }
 \examples{
 u1 <- rbinom(1000,1,0.5)
