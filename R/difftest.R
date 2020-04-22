@@ -1,4 +1,4 @@
-#' Diff_test for test causal effect among time-varying Exposure.
+#' Diff_test for Testing Causal Effect among Time-varying Exposure.
 #'
 #' @param data an optional data frame containing the variables in the model.
 #' @param x1_name the name of pre-outcome exposure
