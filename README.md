@@ -15,12 +15,14 @@ install_github("yuyy-shandong/NCETS")
 
 # Usage
 There are three main functions in NCETS package. One is diff_test for testing causal effect among time-varying Exposure. The second is ncets_cat which could eliminate the unmeasured confounders and estimate causal effect for categorical outcome. And the last one is ncets_con which eliminate the unmeasured confounders and estimate causal effect for continuous outcome.
-You can find the instructions by '?diff_test','?ncets_cat' and '?ncets_con'.
+You can find the instructions by '?diff_test', '?ncets_cat'  and  '?ncets_con'.
 
 library(NCETS)
 
 ?diff_test
+
 ?ncets_cat
+
 ?ncets_con
 
 
